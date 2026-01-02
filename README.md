@@ -3,14 +3,14 @@
 ## 📝 Project Overview
 
 ### 6️⃣ Team Members
-Ahmad Zeidan
-Doaa AbuJayyab
+-Ahmad Zeidan
+-Doaa AbuJayyab
 
 
 ### 6️⃣ Run Commands
 
-pip install -r requirements.txt
-python -m streamlit run app.py --server.port 8501 --server.address 0.0.0.0
+-pip install -r requirements.txt
+-python -m streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 
 ### Project Name
 **IELTS Writing Evaluator using Streamlit and Retrieval-Augmented Generation (RAG)**
