@@ -2,6 +2,11 @@
 
 ## 📝 Project Overview
 
+### 6️⃣ Team Members
+Ahmad Zeidan
+Doaa AbuJayyab
+
+
 ### 6️⃣ Run Commands
 
 pip install -r requirements.txt
