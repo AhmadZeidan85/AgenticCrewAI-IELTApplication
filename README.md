@@ -3,9 +3,9 @@
 ## 📝 Project Overview
 
 ### 6️⃣ Team Members
--Ahmad Zeidan
--Doaa AbuJayyab
-
+- Ahmad Zeidan
+- Doaa AbuJayyab
+- Sami Moqbel
 
 ### 6️⃣ Run Commands
 
@@ -13,10 +13,10 @@
 - python -m streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 
 ### Project Name
-**IELTS Writing Evaluator using Streamlit and Retrieval-Augmented Generation (RAG)**
+**Agentic IELTS Writing Evaluator Application**
 
 ### Description
-This project is a **Streamlit-based AI application** that evaluates **IELTS Writing Task essays** using **Retrieval-Augmented Generation (RAG)** grounded in **official IELTS band descriptor PDFs**.
+This project is a **Agentic CrewAI Streamlit-based AI application** that evaluates **IELTS Writing Task essays** using **CrewAI ** **Retrieval-Augmented Generation (RAG)** grounded in **official IELTS band descriptor PDFs**.
 
 Users submit an IELTS writing essay and receive a **structured IELTS-style evaluation**, including:
 - Band score per criterion  
