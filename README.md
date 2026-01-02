@@ -61,7 +61,7 @@ By retrieving relevant rubric information directly from **official IELTS band de
 
 ### IELTS RAG Evaluation Pipeline
 
-![IELTS RAG Evaluation Pipeline](assets/IELTS_RAG_Evaluation_Pipeline.jpeg)
+![IELTS RAG Evaluation Pipeline](assets/ILETRAGAIAgentFlow.jpeg)
 
 ---
 
