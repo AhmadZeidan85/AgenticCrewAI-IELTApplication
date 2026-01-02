@@ -16,7 +16,7 @@
 **Agentic IELTS Writing Evaluator Application**
 
 ### Description
-This project is a **Agentic CrewAI Streamlit-based AI application** that evaluates **IELTS Writing Task essays** using **CrewAI ** **Retrieval-Augmented Generation (RAG)** grounded in **official IELTS band descriptor PDFs**.
+This project is a **Agentic CrewAI Streamlit-based AI application** that evaluates **IELTS Writing Task essays** using **CrewAI** **Retrieval-Augmented Generation (RAG)** grounded in **official IELTS band descriptor PDFs**.
 
 Users submit an IELTS writing essay and receive a **structured IELTS-style evaluation**, including:
 - Band score per criterion  
