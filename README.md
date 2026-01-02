@@ -48,7 +48,7 @@ By retrieving relevant rubric information directly from **official IELTS band de
 
 ## 🏢 Business & Organizational Benefits
 
-### For EdTech Platforms
+### For Education Tech Platforms
 - Automated essay evaluation at scale  
 - Reduced dependency on human examiners  
 - Faster feedback cycles  
@@ -101,6 +101,37 @@ By retrieving relevant rubric information directly from **official IELTS band de
 - Uses retrieved rubric context
 
 ---
+## ⚠️ Current Limitations and Drawbacks
+
+- Evaluates one essay at a time
+- Does not replace certified IELTS examiners
+- Requires internet access for LLM inference
+- No user authentication or progress tracking
+
+---
+
+## 📚 References and Citations
+
+1. IELTS Official Website – Band Descriptors  
+   https://www.ielts.org  
+
+2. Streamlit Documentation  
+   https://docs.streamlit.io  
+
+3. Sentence Transformers  
+   https://www.sbert.net  
+
+4. FAISS Vector Similarity Search  
+   https://github.com/facebookresearch/faiss  
+
+5. Hugging Face Inference API  
+   https://huggingface.co/docs  
+
+---
+
+## ✅ Conclusion
+
+This project demonstrates how **Retrieval-Augmented Generation (RAG)** can be applied to build a **transparent, standards-aligned IELTS Writing Evaluator** using official IELTS band descriptors as contextual grounding.
 
 
 
