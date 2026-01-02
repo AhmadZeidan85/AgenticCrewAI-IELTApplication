@@ -1,0 +1,34 @@
+evaluate_writing:
+  description: |
+    Evaluate the IELTS writing response below.
+
+    Score each criterion (0–9):
+    - Task Achievement / Task Response
+    - Coherence & Cohesion
+    - Lexical Resource
+    - Grammatical Range & Accuracy
+
+    Calculate Final Band Score:
+    - Average the four criteria
+    - Round to nearest 0.5
+
+    Writing Response:
+    {response}
+
+    Output Format:
+    ---
+    Task Achievement: X
+    Coherence & Cohesion: X
+    Lexical Resource: X
+    Grammar: X
+
+    Final Band Score: X
+
+    Strengths:
+    - ...
+
+    Weaknesses:
+    - ...
+
+    Improvement Tips:
+    - ...
