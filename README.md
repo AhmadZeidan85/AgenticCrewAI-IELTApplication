@@ -131,7 +131,7 @@ By retrieving relevant rubric information directly from **official IELTS band de
 
 ## ✅ Conclusion
 
-This project demonstrates how **Retrieval-Augmented Generation (RAG)** can be applied to build a **transparent, standards-aligned IELTS Writing Evaluator** using official IELTS band descriptors as contextual grounding.
+This project demonstrates how **CrewAI & Retrieval-Augmented Generation (RAG)** can be applied to build a **transparent, standards-aligned IELTS Writing Evaluator** using official IELTS band descriptors as contextual grounding.
 
 
 
